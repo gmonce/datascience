@@ -17,9 +17,7 @@ from nltk.tag.api import TaggerI
 def tUoB(obj, encoding='utf-8'):
     if isinstance(obj, basestring):
         if not isinstance(obj, unicode):
-	    print 'Antes:',obj,encoding
             obj = unicode(obj, encoding)
-	    print 'Después:',obj 
     return obj
 
 _treetagger_url = 'http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger'
@@ -149,8 +147,6 @@ class TreeTagger(TaggerI):
         
         (stdout, stderr) = p.communicate(_input)
         treetagger_output = stdout
-	print stdout
-	print isinstance(stdout,unicode)
 
         # Check the return code.
         if p.returncode != 0:
