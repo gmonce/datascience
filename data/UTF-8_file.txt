@@ -1,1 +1,4 @@
-This is an UTF-8. It includes a pair of japanese characters: 東京 (Tokyo). The euro sign is this: €. Some accented characters: cámara alegría ilusión.
+This is an UTF-8. 
+It includes a pair of japanese characters: 東京 (Tokyo). 
+The euro sign is this: €. 
+Some accented characters: cámara alegría ilusión.
