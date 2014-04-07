@@ -1,7 +1,7 @@
-Machine Learning & NLP
-======================
+Applied Machine Learning & NLP
+==============================
 
-Probably useful code for doing Data Science / Natural Language Processing.
+Probably useful code for doing Data Science or so.
 
 *Under (permanent) construction*
 
@@ -11,6 +11,7 @@ Tutorials
 
 1. [Yet Another Python Encoding Tutorial] (http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb)
 2. (On the road): Sequential Learning and the CoNLL format or something like that
+3. (On my head): Really Understanding Confidence Intervals
 
 
 Beautiful links
