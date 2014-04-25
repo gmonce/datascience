@@ -23,4 +23,4 @@ Beautiful links
 Random Amusements
 =================
 
-1. Figuritas (In Spanish)
+1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb) (In Spanish)
