@@ -19,3 +19,8 @@ Beautiful links
 
 1. [Movie Recommendations with k-Nearest Neighbors and Cosine Similarity](http://gist.neo4j.org/?8173017)
 
+
+Random Amusements
+=================
+
+1. Figuritas (In Spanish)
