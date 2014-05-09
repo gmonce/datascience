@@ -17,10 +17,17 @@ Tutorials
 Beautiful links
 ===============
 
-1. [Movie Recommendations with k-Nearest Neighbors and Cosine Similarity](http://gist.neo4j.org/?8173017)
+1. [Movie Recommendations with k-Nearest Neighbors and Cosine Similarity](http://gist.neo4j.org/?8173017) - By Nicole White.
 
 
 Random Amusements
 =================
 
 1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb) (In Spanish)
+
+
+It is all about intuition
+=========================
+
+1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
+2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
