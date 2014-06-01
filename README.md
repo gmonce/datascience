@@ -31,3 +31,4 @@ It is all about intuition
 
 1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
 2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
+3. [Everything You Wanted to Know about the Kernel Trick (But Were Too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html). By Eric Kim.
