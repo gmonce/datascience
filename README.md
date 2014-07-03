@@ -10,7 +10,7 @@ Tutorials
 =========
 
 1. [Yet Another Python Encoding Tutorial] (http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb)
-2. (In construction): [Natural Language Parsing with Python] (https://github.com/gmonce/nltk_parsing) 
+2. (Under construction): [Natural Language Parsing with Python] (https://github.com/gmonce/nltk_parsing) 
 3. (On the road): Sequential Learning and the CoNLL format or something like that
 4. (On my head): Really Understanding Confidence Intervals
 
