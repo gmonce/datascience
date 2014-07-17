@@ -35,3 +35,4 @@ It is all about intuition
 2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
 3. [Everything You Wanted to Know about the Kernel Trick (But Were Too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html). By Eric Kim.
 4. [Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation](http://www.cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/) - By J.D. Long
+5. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
