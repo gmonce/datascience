@@ -21,6 +21,8 @@ Beautiful links
 1. [Movie Recommendations with k-Nearest Neighbors and Cosine Similarity](http://gist.neo4j.org/?8173017) - By Nicole White.
 2. [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/) - By Randal Olson
 3. [Logs, Tails, Long Tails](http://moultano.wordpress.com/2013/08/09/logs-tails-long-tails/) - By Ryan Moulton. Why log probabilities are useful. Why long tails matter.
+4. [Sentiment Analysis on Movie Reviews](https://github.com/rafacarrascosa/samr) - By Rafael Carrascosa. Sentiment Analysis using Random Forests. 
+
 
 Random Amusements
 =================
