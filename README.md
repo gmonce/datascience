@@ -39,3 +39,5 @@ It is all about intuition
 4. [Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation](http://www.cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/) - By J.D. Long
 5. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
 6. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
+7. [Neural Networks and Depp Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great book on neural networks. Worths reading every page. 
+
