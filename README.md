@@ -30,8 +30,8 @@ Random Amusements
 1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb) (In Spanish)
 
 
-It is all about intuition
-=========================
+Intuition and fundamentals
+==========================
 
 1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
 2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
