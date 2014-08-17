@@ -41,3 +41,4 @@ It is all about intuition
 6. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
 7. [Neural Networks and Depp Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great book on neural networks. Worths reading every page. 
 
+
