@@ -28,7 +28,7 @@ Random Amusements
 =================
 
 1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb) (In Spanish)
-2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras%2C%20malditas%20mentiras%2C%20y%20encuestas.ipynb) (In Spanish)
+2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb) (In Spanish)
 
 
 Intuition and fundamentals
