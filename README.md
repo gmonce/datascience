@@ -22,6 +22,7 @@ Beautiful links
 2. [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/) - By Randal Olson
 3. [Logs, Tails, Long Tails](http://moultano.wordpress.com/2013/08/09/logs-tails-long-tails/) - By Ryan Moulton. Why log probabilities are useful. Why long tails matter.
 4. [Sentiment Analysis on Movie Reviews](https://github.com/rafacarrascosa/samr) - By Rafael Carrascosa. Sentiment Analysis using Random Forests. 
+5. [Tiny Data, Approximate Bayesian Computation and the Socks of Karl Broman](http://www.sumsar.net/blog/2014/10/tiny-data-and-the-socks-of-karl-broman/) - By Rasmus Bååth. 
 
 
 Random Amusements
@@ -29,6 +30,7 @@ Random Amusements
 
 1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb) (In Spanish)
 2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb) (In Spanish)
+3. [Mi "predicción" para las elecciones 2014 en Uruguay](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Prediccio%CC%81n%20Elecciones%202014.ipynb) (In Spanish)
 
 
 Intuition and fundamentals
