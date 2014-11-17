@@ -31,6 +31,7 @@ Random Amusements
 1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb) (In Spanish)
 2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb) (In Spanish)
 3. [Mi "predicción" para las elecciones 2014 en Uruguay](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Prediccio%CC%81n%20Elecciones%202014.ipynb) (In Spanish)
+4. [Python, Machine Learning y el Titanic](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb) - Material for a talk at the Tech Meetup Uruguay 2014 (In Spanish)
 
 
 Intuition and fundamentals
