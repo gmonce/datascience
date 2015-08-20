@@ -15,7 +15,7 @@ Intuition/Fundamentals
 5. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
 6. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
 7. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great online book on neural networks. 
-8. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy[http://deeplearning4j.org/eigenvector] - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
+8. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector) - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
 
 
 My tutorials
