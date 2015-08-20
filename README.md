@@ -5,9 +5,21 @@ Probably useful code for doing Data Science or so.
 
 *Under (permanent) construction*
 
+Intuition/Fundamentals
+======================
 
-Tutorials
-=========
+1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
+2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
+3. [Everything You Wanted to Know about the Kernel Trick (But Were Too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html). By Eric Kim.
+4. [Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation](http://www.cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/) - By J.D. Long
+5. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
+6. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
+7. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great online book on neural networks. 
+8. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy[http://deeplearning4j.org/eigenvector] - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
+
+
+My tutorials
+============
 
 1. [Yet Another Python Encoding Tutorial] (http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb)
 2. [Matrices for Data Scientists](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/2.%20-%20Matrices%20for%20data%20scientists.ipynb)
@@ -35,15 +47,5 @@ Random Amusements
 4. [Python, Machine Learning y el Titanic](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb) - Material for a talk at the Tech Meetup Uruguay 2014 (In Spanish)
 
 
-Intuition and fundamentals
-==========================
-
-1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
-2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
-3. [Everything You Wanted to Know about the Kernel Trick (But Were Too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html). By Eric Kim.
-4. [Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation](http://www.cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/) - By J.D. Long
-5. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
-6. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
-7. [Neural Networks and Depp Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great online book on neural networks. 
 
 
