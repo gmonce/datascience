@@ -16,7 +16,7 @@ Intuition/Fundamentals
 6. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
 7. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great online book on neural networks. 
 8. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector) - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
-9. [Visual Information](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Visualizing probabilities and more...
+9. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
 
 
 My tutorials
