@@ -17,6 +17,7 @@ Intuition/Fundamentals
 7. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great online book on neural networks. 
 8. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector) - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
 9. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
+10. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
 
 
 My tutorials
