@@ -18,7 +18,7 @@ Intuition/Fundamentals
 8. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector) - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
 9. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
 10. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
-11. [Seeing Theory](http://students.brown.edu/seeing-theory/) By Daniel Kunin. A visual introduction to Probability and Statistics
+
 
 Programming Machine Learning
 ============================
@@ -29,11 +29,9 @@ Programming Machine Learning
 My tutorials
 ============
 
-1. [Yet Another Python Encoding Tutorial] (http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb)
+1. [Yet Another Python Encoding Tutorial](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb)
 2. [Matrices for Data Scientists](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/2.%20-%20Matrices%20for%20data%20scientists.ipynb)
-3. [Natural Language Parsing with Python] (https://github.com/gmonce/nltk_parsing) 
-4. (On the road): Sequential Learning and the CoNLL format or something like that
-5. (On my head): Really Understanding Confidence Intervals
+3. [Natural Language Parsing with Python](https://github.com/gmonce/nltk_parsing) 
 
 
 Beautiful links
@@ -44,6 +42,7 @@ Beautiful links
 3. [Logs, Tails, Long Tails](http://moultano.wordpress.com/2013/08/09/logs-tails-long-tails/) - By Ryan Moulton. Why log probabilities are useful. Why long tails matter.
 4. [Sentiment Analysis on Movie Reviews](https://github.com/rafacarrascosa/samr) - By Rafael Carrascosa. Sentiment Analysis using Random Forests. 
 5. [Tiny Data, Approximate Bayesian Computation and the Socks of Karl Broman](http://www.sumsar.net/blog/2014/10/tiny-data-and-the-socks-of-karl-broman/) - By Rasmus Bååth. 
+6. [Seeing Theory](http://students.brown.edu/seeing-theory/) By Daniel Kunin. A visual introduction to Probability and Statistics
 
 
 Random Amusements
