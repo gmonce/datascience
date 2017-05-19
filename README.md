@@ -19,6 +19,7 @@ Intuition/Fundamentals
 9. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
 10. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
 11. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - by C.Olah
+12. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
 
 Programming Machine Learning
 ============================
