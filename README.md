@@ -20,6 +20,7 @@ Intuition/Fundamentals
 10. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
 11. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - by C.Olah
 12. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
+13. [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) - by Terrence Parr and Jeremy Howard. 
 
 Programming Machine Learning
 ============================
