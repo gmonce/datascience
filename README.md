@@ -28,6 +28,11 @@ Programming Machine Learning
 1. [Introduction to NumPy](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf) - By Sebastian Raschka (Appendix F)
 
 
+Visualization
+=============
+
+1. [Visual Vocabulary (.png)](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png) - By ft.com - How to visualize your data, depending on what you want to emphasize. 
+
 My tutorials
 ============
 
