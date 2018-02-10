@@ -26,7 +26,7 @@ Programming Machine Learning
 ============================
 
 1. [Introduction to NumPy](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf) - By Sebastian Raschka (Appendix F)
-
+2. [An introduction to NumPy and SciPy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf) - By M. Scott Shell
 
 Visualization
 =============
