@@ -65,6 +65,7 @@ Random Amusements
 2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb) (In Spanish)
 3. [Mi "predicción" para las elecciones 2014 en Uruguay](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Prediccio%CC%81n%20Elecciones%202014.ipynb) (In Spanish)
 4. [Python, Machine Learning y el Titanic](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb) - Material for a talk at the Tech Meetup Uruguay 2014 (In Spanish)
+5. [Seminario Ciencia de Datos](https://github.com/gmonce/datascience/blob/master/Seminario%20Ciencia%20de%20Datos.pdf) - Slides for a 8-hour seminar on Data Science. Facultad de Ciencias Económicas - Universidad de la República - Uruguay
 
 
 
