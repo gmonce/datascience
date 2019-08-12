@@ -38,6 +38,7 @@ Visualization
 
 1. [Visual Vocabulary (.png)](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png) - By ft.com - How to visualize your data, depending on what you want to emphasize. 
 2. [Visualizing the uncertainty in data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/) - By Nathan Yau
+3. [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) - By Claus Wilke - "The book is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional."
 
 My tutorials
 ============
