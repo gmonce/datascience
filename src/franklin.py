@@ -25,25 +25,25 @@ def ci_porc(p):
 def ci_dif(p1,p2):
     ci=round(p1-p2-1.96*math.sqrt(((p1+p2)-(p1-p2)**2)/(n-1)),3)
     cd=round(p1-p2+1.96*math.sqrt(((p1+p2)- (p1-p2)**2)/(n-1)),3)
-    print p1,p2,"Diferencia:",(p1-p2)
-    print "Intervalo:",(ci,cd)
+    print (p1,p2,"Diferencia:",(p1-p2))
+    print ("Intervalo:",(ci,cd))
     if (ci<0 and cd>0) or (ci>0 and cd<0):
-        print "La diferencia no es significativa"
+        print ("La diferencia no es significativa")
     else:
-        print "La diferencia es significativa"
+        print ("La diferencia es significativa")
 
 # Calcula si la diferencia del mismo valor entre dos encuestas es estadísticamente significativa
 def ci_dif_between(p1,p2):
-    print p1,p2, "Diferencia",(p1-p2)
+    print (p1,p2, "Diferencia",(p1-p2))
     q1=1-p1
     q2=1-p2
     ci=round(p2-p1-1.96*math.sqrt(p1*q1/n+p2*q2/n),3)
     cd=round(p2-p1+1.96*math.sqrt(p1*q1/n+p2*q2/n),3)
-    print "Intervalo:",(ci,cd)
+    print ("Intervalo:",(ci,cd))
     if (ci<0 and cd>0) or (ci>0 and cd<0):
-        print "La diferencia no es significativa"
+        print ("La diferencia no es significativa")
     else:
-        print "La diferencia es significativa"
+        print ("La diferencia es significativa")
     
 
 
