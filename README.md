@@ -46,6 +46,10 @@ My tutorials
 1. [Yet Another Python Encoding Tutorial](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb)
 2. [Matrices for Data Scientists](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/2.%20-%20Matrices%20for%20data%20scientists.ipynb)
 3. [Natural Language Parsing with Python](https://github.com/gmonce/nltk_parsing) 
+4. Ciencia de Datos: lo mínimo que hay que saber (in Spanish)
+	4.1 [NumPy]
+	4.2 [Pandas]
+	4.3 [Matplotlib y Seaborn]
 
 
 Beautiful links
