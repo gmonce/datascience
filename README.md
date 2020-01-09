@@ -28,6 +28,11 @@ Programming Machine Learning
 1. [Introduction to NumPy](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf) - By Sebastian Raschka (Appendix F)
 2. [An introduction to NumPy and SciPy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf) - By M. Scott Shell
 
+3. Ciencia de Datos: lo mínimo que hay que saber (in Spanish)
+* 4.1 [NumPy]
+* 4.2 [Pandas]
+* 4.3 [Matplotlib y Seaborn]
+
 Advanced
 ========
 1. [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) - By Alex Irpan.
@@ -46,10 +51,6 @@ My tutorials
 1. [Yet Another Python Encoding Tutorial](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb)
 2. [Matrices for Data Scientists](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/2.%20-%20Matrices%20for%20data%20scientists.ipynb)
 3. [Natural Language Parsing with Python](https://github.com/gmonce/nltk_parsing) 
-4. Ciencia de Datos: lo mínimo que hay que saber (in Spanish)
-	4.1 [NumPy]
-	4.2 [Pandas]
-	4.3 [Matplotlib y Seaborn]
 
 
 Beautiful links
