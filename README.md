@@ -44,6 +44,10 @@ Advanced
 ========
 1. [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) - By Alex Irpan.
 
+Reviews
+
+1. [NLP Year in Review 2019](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19) - By Elvis. Very comprehensive.
+
 
 Visualization
 =============
