@@ -26,12 +26,18 @@ Deep Learning
 5. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
 6. [Deep Learning](https://www.nature.com/articles/nature14539) - A review of Deep Learning for Nature. By LeCun, Bengio & Hinton
 
+
+Unsupervised Learning
+=====================
+
+1. [A tutorial on PCA](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) - Lindsay Smith - 2002 - Very clear, step by step, introduction to Principal Component Analysis
+
 Programming Machine Learning
 ============================
 
 1. [Introduction to NumPy](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf) - By Sebastian Raschka (Appendix F)
 2. [An introduction to NumPy and SciPy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf) - By M. Scott Shell
-
+3. [Implementing a Principal Component Analysis (PCA)]http://sebastianraschka.com/Articles/2014_pca_step_by_step.html - by Sebastian Raschka. Using Python and NumPy. 
 
 
 Advanced
