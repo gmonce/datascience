@@ -16,6 +16,8 @@ Intuition/Foundations
 6. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector) - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
 7. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
 8. [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) - by Terrence Parr and Jeremy Howard. 
+9. [Seeing Theory](http://students.brown.edu/seeing-theory/) By Daniel Kunin. A visual introduction to Probability and Statistics
+
 
 Deep Learning
 =============
@@ -45,7 +47,19 @@ Visualization
 1. [Visual Vocabulary (.png)](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png) - By ft.com - How to visualize your data, depending on what you want to emphasize. 
 2. [Visualizing the uncertainty in data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/) - By Nathan Yau
 3. [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) - By Claus Wilke - "The book is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional."
+4. [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/) - By Randal Olson
 
+Applications
+===============
+
+1. [Movie Recommendations with k-Nearest Neighbors and Cosine Similarity](http://gist.neo4j.org/?8173017) - By Nicole White.
+2. [Sentiment Analysis on Movie Reviews](https://github.com/rafacarrascosa/samr) - By Rafael Carrascosa. Sentiment Analysis using Random Forests. 
+
+Yet assorted
+============
+
+1. [Logs, Tails, Long Tails](http://moultano.wordpress.com/2013/08/09/logs-tails-long-tails/) - By Ryan Moulton. Why log probabilities are useful. Why long tails matter.
+2. [Tiny Data, Approximate Bayesian Computation and the Socks of Karl Broman](http://www.sumsar.net/blog/2014/10/tiny-data-and-the-socks-of-karl-broman/) - By Rasmus Bååth. 
 
 Advanced
 ========
@@ -71,15 +85,7 @@ My tutorials
 * 4.2 [Pandas](https://github.com/gmonce/datascience/blob/master/src/Intro_Pandas.ipynb)
 * 4.3 [Matplotlib y Seaborn](https://github.com/gmonce/datascience/blob/master/src/Intro_Matplotlib.ipynb)
 
-Beautiful links
-===============
 
-1. [Movie Recommendations with k-Nearest Neighbors and Cosine Similarity](http://gist.neo4j.org/?8173017) - By Nicole White.
-2. [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/) - By Randal Olson
-3. [Logs, Tails, Long Tails](http://moultano.wordpress.com/2013/08/09/logs-tails-long-tails/) - By Ryan Moulton. Why log probabilities are useful. Why long tails matter.
-4. [Sentiment Analysis on Movie Reviews](https://github.com/rafacarrascosa/samr) - By Rafael Carrascosa. Sentiment Analysis using Random Forests. 
-5. [Tiny Data, Approximate Bayesian Computation and the Socks of Karl Broman](http://www.sumsar.net/blog/2014/10/tiny-data-and-the-socks-of-karl-broman/) - By Rasmus Bååth. 
-6. [Seeing Theory](http://students.brown.edu/seeing-theory/) By Daniel Kunin. A visual introduction to Probability and Statistics
 
 
 Random Amusements
