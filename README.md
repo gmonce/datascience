@@ -39,22 +39,25 @@ Programming Machine Learning
 2. [An introduction to NumPy and SciPy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf) - By M. Scott Shell
 3. [Implementing a Principal Component Analysis (PCA)](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html) - by Sebastian Raschka. Using Python and NumPy. 
 
-
-Advanced
-========
-1. [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) - By Alex Irpan.
-
-Reviews
-
-1. [NLP Year in Review 2019](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19) - By Elvis. Very comprehensive.
-
-
 Visualization
 =============
 
 1. [Visual Vocabulary (.png)](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png) - By ft.com - How to visualize your data, depending on what you want to emphasize. 
 2. [Visualizing the uncertainty in data](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/) - By Nathan Yau
 3. [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) - By Claus Wilke - "The book is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional."
+
+
+Advanced
+========
+
+1. [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) - By Alex Irpan.
+
+Reviews
+=======
+
+1. [NLP Year in Review 2019](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19) - By Elvis. Very comprehensive.
+
+
 
 My tutorials
 ============
