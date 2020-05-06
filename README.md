@@ -5,7 +5,7 @@ Probably useful code for doing Data Science or so.
 
 *Under (permanent) construction*
 
-Intuition/Fundamentals
+Intuition/Foundations
 ======================
 
 1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
