@@ -12,15 +12,19 @@ Intuition/Foundations
 2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
 3. [Everything You Wanted to Know about the Kernel Trick (But Were Too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html). By Eric Kim.
 4. [Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation](http://www.cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/) - By J.D. Long
-5. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
-6. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
-7. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great online book on neural networks. 
-8. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector) - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
-9. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
-10. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
-11. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - by C.Olah
-12. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
-13. [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) - by Terrence Parr and Jeremy Howard. 
+5. [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html) - A visual explanation. By Lewis Lehe.
+6. [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector) - by [Skymind](http://www.skymind.io/). The most intuitive introduction to Eigenvectors and Eigenvalues I've found so far.
+7. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
+8. [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) - by Terrence Parr and Jeremy Howard. 
+
+Deep Learning
+=============
+1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - By Micheal Nielsen. A great online book on neural networks. 
+3. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
+4. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - by C.Olah
+5. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
+6. [Deep Learning](https://www.nature.com/articles/nature14539) - A review of Deep Learning for Nature. By LeCun, Bengio & Hinton
 
 Programming Machine Learning
 ============================
