@@ -80,22 +80,24 @@ My tutorials / Guías (English/Spanish)
 2. [Matrices for Data Scientists](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/2.%20-%20Matrices%20for%20data%20scientists.ipynb)
 3. [Natural Language Parsing with Python](https://github.com/gmonce/nltk_parsing) 
 
-4. Ciencia de Datos: lo mínimo que hay que saber 🇪🇸
+4. Ciencia de Datos: lo mínimo que hay que saber
 * 4.1 [NumPy](https://github.com/gmonce/datascience/blob/master/src/Intro_NumPy.ipynb)
 * 4.2 [Pandas](https://github.com/gmonce/datascience/blob/master/src/Intro_Pandas.ipynb)
 * 4.3 [Matplotlib y Seaborn](https://github.com/gmonce/datascience/blob/master/src/Intro_Matplotlib.ipynb)
 
+Presentaciones
+==============
 
+1. [Seminario Ciencia de Datos](https://github.com/gmonce/datascience/blob/master/presentaciones/Seminario%20Ciencia%20de%20Datos.pdf) - Slides for a 8-hour seminar on Data Science. Facultad de Ciencias Económicas - Universidad de la República - Uruguay
 
+Amusements / Entretenimiento
+============================
 
-Random Amusements
-=================
-
-1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb) (In Spanish)
-2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb) (In Spanish)
-3. [Mi "predicción" para las elecciones 2014 en Uruguay](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Elecciones2014.ipynb) (In Spanish)
+1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb)
+2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb)
+3. [Mi "predicción" para las elecciones 2014 en Uruguay](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Elecciones2014.ipynb) 
 4. [Python, Machine Learning y el Titanic](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb) - Material for a talk at the Tech Meetup Uruguay 2014 (In Spanish)
-5. [Seminario Ciencia de Datos](https://github.com/gmonce/datascience/blob/master/presentaciones/Seminario%20Ciencia%20de%20Datos.pdf) - Slides for a 8-hour seminar on Data Science. Facultad de Ciencias Económicas - Universidad de la República - Uruguay
+
 
 
 
