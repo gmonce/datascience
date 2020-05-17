@@ -1,13 +1,21 @@
-Applied Machine Learning & NLP
-==============================
-
-Probably useful code for doing Data Science or so.
+Computer Science, Machine Learning & Natural Language Processing
+================================================================
 
 *Under (permanent) construction*
 
-Intuition/Foundations
-======================
+Historical papers
+=================
+1. [On Computable Numbers with an Application to the Entscheidungsproblem] - By A.M. Turing, 1936
 
+
+General Surveys 
+===============
+1. [Turing Machines](https://www.scientificamerican.com/index.cfm/_api/render/file/?method=inline&fileID=0AA52C13-7ADB-45E6-AEE4E71BDD9EB7A9) - An article in 1984 Scientific American by John E. Hopcropt, about Turing Machines, A.M. Turing, and the history of computability and computational complexity.
+2. 
+
+
+Foundations
+===========
 1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
 2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
 3. [Everything You Wanted to Know about the Kernel Trick (But Were Too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html). By Eric Kim.
@@ -17,6 +25,7 @@ Intuition/Foundations
 7. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
 8. [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) - by Terrence Parr and Jeremy Howard. 
 9. [Seeing Theory](http://students.brown.edu/seeing-theory/) By Daniel Kunin. A visual introduction to Probability and Statistics
+
 
 
 Deep Learning
