@@ -5,7 +5,7 @@ Computer Science, Machine Learning & Natural Language Processing
 
 Historical papers
 =================
-1. [On Computable Numbers with an Application to the Entscheidungsproblem] - By A.M. Turing, 1936
+1. [On Computable Numbers with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - By A.M. Turing, 1936
 
 
 General Surveys 
