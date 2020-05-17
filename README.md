@@ -35,7 +35,8 @@ Deep Learning
 3. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
 4. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - by C.Olah
 5. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
-6. [Understanding Convolutions] - by C.Olah (2014)
+6. [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/) - by C.Olah (2014)
+7. [Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/) - by C.Olah (2014) - How convolutional neural networks work. 
 
 
 
