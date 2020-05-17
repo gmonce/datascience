@@ -8,10 +8,11 @@ Historical papers
 1. [On Computable Numbers with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - By A.M. Turing, 1936
 
 
+
 General Surveys 
 ===============
 1. [Turing Machines](https://www.scientificamerican.com/index.cfm/_api/render/file/?method=inline&fileID=0AA52C13-7ADB-45E6-AEE4E71BDD9EB7A9) - An article in 1984 Scientific American by John E. Hopcropt, about Turing Machines, A.M. Turing, and the history of computability and computational complexity.
-2. 
+2. [Deep Learning](https://www.nature.com/articles/nature14539) - A review of Deep Learning for Nature. By LeCun, Bengio & Hinton
 
 
 Foundations
@@ -27,7 +28,6 @@ Foundations
 9. [Seeing Theory](http://students.brown.edu/seeing-theory/) By Daniel Kunin. A visual introduction to Probability and Statistics
 
 
-
 Deep Learning
 =============
 1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) - By C. Olah
@@ -35,7 +35,8 @@ Deep Learning
 3. [Calculus on computational graphs: backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - by C. Olah. Backpropagation explained as calculus on computational graphs
 4. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - by C.Olah
 5. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
-6. [Deep Learning](https://www.nature.com/articles/nature14539) - A review of Deep Learning for Nature. By LeCun, Bengio & Hinton
+6. [Understanding Convolutions] - by C.Olah (2014)
+
 
 
 Unsupervised Learning
