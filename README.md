@@ -11,7 +11,7 @@ Historical papers
 
 Books
 =====
-1. [Probability Theory: The Logic of Science 1st Edition](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712) By E.T. Jaynes
+1. [Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712) By E.T. Jaynes
 2. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) By J.H. Martin and D. Jurafsky (3rd edition draft)
 
 General Surveys 
