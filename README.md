@@ -8,6 +8,8 @@ Historical papers
 1. [On Computable Numbers with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - By A.M. Turing, 1936
 2. [Computing Machinery and Intelligence](http://cogprints.org/499/1/turing.html) By A.M. Turing, 1950.
 3. [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By C. Shannon, 1948
+4. [The perceptron: A probabilistic model for information storage and organization in the brain](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf). 
+5. [Learning representations by back-propagating errors](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf). 
 
 Books
 =====
