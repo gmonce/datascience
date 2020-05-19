@@ -9,7 +9,10 @@ Historical papers
 2. [Computing Machinery and Intelligence](http://cogprints.org/499/1/turing.html) By A.M. Turing, 1950.
 3. [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By C. Shannon, 1948
 
-
+Books
+=====
+1. [Probability Theory: The Logic of Science 1st Edition](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712) By E.T. Jaynes
+2. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) By J.H. Martin and D. Jurafsky (3rd edition draft)
 
 General Surveys 
 ===============
