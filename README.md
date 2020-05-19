@@ -6,6 +6,8 @@ Computer Science, Machine Learning & Natural Language Processing
 Historical papers
 =================
 1. [On Computable Numbers with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - By A.M. Turing, 1936
+2. [Computing Machinery and Intelligence](http://cogprints.org/499/1/turing.html) By A.M. Turing, 1950.
+3. [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By C. Shannon, 1948
 
 
 
