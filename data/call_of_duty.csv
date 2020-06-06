@@ -1,7 +1,6 @@
 Arma,Daño,Precision,Alcance,Cadencia,Movilidad,Tipo
 M4,45,60,70,45,60,Fusil de Asalto
 M16, 65,60,60,45,60,Fusil de Asalto
-S3, 75, 35, 50, 75, 40,Ametralladora
 BY15, 85,80,30,20,75,Escopeta
 MSMC,75,45,30,70,80,Ametralladora Ligera
 DLQ33, 90,60,95,15,45,Fusil de Precisión
@@ -9,6 +8,10 @@ XPR-50, 80,55,90,40,45,Fusil de Precisión
 Arctic.50,85,52,95,30,50,Fusil de Precisión
 BK57, 48,65,90,63,60,Fusil de Asalto
 M4MLG, 60,55,45,55,40,Ametralladora Ligera
-AKS-74U, 78,55,32,60,75,Subfusil
-PDW-57, 90,40,25,60,75,Subfusil
-
+RUS-79U, 78,55,32,60,75, Ametralladora Ligera
+PDW-57, 90,40,25,50,75, Pistola Ametralladora
+ASM10, 62, 53, 58, 55,55, Fusil de Asalto
+S36, 72,31,43,75,37, Ametralladora Ligera
+RPD, 65,41,50,65,40, Ametralladora Ligera
+Outlaw, 83,55,95,30,55, Fusil de Precisión
+AK-47, 70,48,66,55,60,Fusil de Asalto
