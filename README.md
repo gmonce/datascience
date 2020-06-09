@@ -111,7 +111,7 @@ Presentaciones (in Spanish)
 2. [Veinte Años de Aprendizaje Automático](https://www.youtube.com/watch?v=L5pUoANxU-o) - Talk at the GX27 Meeting - Uruguay - 2017
 3. [Machine Learning, Python y el Titanic](https://www.youtube.com/watch?v=6MZFsZ9HINE) - Talk at Tech Meetup Uruguay - 2014 - [Slides](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb)
 4. [Aprendizaje automático en el mundo real](https://www.youtube.com/watch?v=G6mU-uffY8Q&t=409s) - Talk at the GX28 Meeting - Uruguay 2018
-
+5. [Olas, inviernos, ciencia y tecnología: Lo que aprendí del Procesamiento de Lenguaje Natural](https://www.youtube.com/watch?v=MizC8L-FcU4) - Talk at the GX20 Meeting - Uruguay - 2019
 
 
 Amusements / Entretenimiento
