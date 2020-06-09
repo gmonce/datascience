@@ -104,10 +104,13 @@ My tutorials / Guías (English/Spanish)
     * 4.2 [Pandas](https://github.com/gmonce/datascience/blob/master/src/Intro_Pandas.ipynb)
     * 4.3 [Matplotlib y Seaborn](https://github.com/gmonce/datascience/blob/master/src/Intro_Matplotlib.ipynb)
 
-Presentaciones
-==============
+Presentaciones (in Spanish)
+===========================
 
 1. [Seminario Ciencia de Datos](https://github.com/gmonce/datascience/blob/master/presentaciones/Seminario%20Ciencia%20de%20Datos.pdf) - Slides for a 8-hour seminar on Data Science. Facultad de Ciencias Económicas - Universidad de la República - Uruguay
+2. [Veinte Años de Aprendizaje Automático](https://www.youtube.com/watch?v=L5pUoANxU-o) - Talk at the GX27 Meeting - Uruguay - 2017
+3. [Machine Learning, Python y el Titanic](https://www.youtube.com/watch?v=6MZFsZ9HINE) - Talk at Tech Meetup Uruguay - 2014 - [Slides](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb)
+
 
 Amusements / Entretenimiento
 ============================
@@ -115,8 +118,6 @@ Amusements / Entretenimiento
 1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb)
 2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb)
 3. [Mi "predicción" para las elecciones 2014 en Uruguay](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Elecciones2014.ipynb) 
-4. [Python, Machine Learning y el Titanic](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb) - Material for a talk at the Tech Meetup Uruguay 2014 (In Spanish)
-
 
 
 
