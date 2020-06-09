@@ -15,6 +15,8 @@ Books
 =====
 1. [Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712) By E.T. Jaynes
 2. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) By J.H. Martin and D. Jurafsky (3rd edition draft)
+3. [Reinforcement Learning: an Introduction](http://incompleteideas.net/book/the-book-2nd.html) - By R. Sutton and A. Barto
+4. [Machine Learnning](https://www.amazon.com/-/es/Tom-M-Mitchell/dp/0070428077) - By T. Mitchell 
 
 General Surveys 
 ===============
