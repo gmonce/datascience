@@ -109,7 +109,9 @@ Presentaciones (in Spanish)
 
 1. [Seminario Ciencia de Datos](https://github.com/gmonce/datascience/blob/master/presentaciones/Seminario%20Ciencia%20de%20Datos.pdf) - Slides for a 8-hour seminar on Data Science. Facultad de Ciencias Económicas - Universidad de la República - Uruguay
 2. [Veinte Años de Aprendizaje Automático](https://www.youtube.com/watch?v=L5pUoANxU-o) - Talk at the GX27 Meeting - Uruguay - 2017
-3. [Machine Learning, Python y el Titanic](https://www.youtube.com/watch?v=6MZFsZ9HINE) - Talk at Tech Meetup Uruguay - 2014 - [Slides](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb)
+3. [Machine Learning, Python y el Titanic](https://www.youtube.com/watch?v=6MZFsZ9HINE) - Talk at Tech Meetup Uruguay - 2014 - [Slides](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Titanic.ipynb)]
+4. [Aprendizaje automático en el mundo real](https://www.youtube.com/watch?v=G6mU-uffY8Q&t=409s) - Tal at the GX28 Meeting - Uruguay 2018
+
 
 
 Amusements / Entretenimiento
