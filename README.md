@@ -24,6 +24,7 @@ General Surveys
 2. [Deep Learning](https://www.nature.com/articles/nature14539) - A review of Deep Learning for Nature. By LeCun, Bengio & Hinton
 
 
+
 Foundations
 ===========
 1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
@@ -35,6 +36,13 @@ Foundations
 7. [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/) - by C. Olah. Entropy, Cross-entropy, and KL-divergence visually explained...
 8. [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) - by Terrence Parr and Jeremy Howard. 
 9. [Seeing Theory](http://students.brown.edu/seeing-theory/) By Daniel Kunin. A visual introduction to Probability and Statistics
+
+Causality
+=========
+1. [The book of why](https://www.amazon.com/-/es/Judea-Pearl/dp/046509760X) - by Judea Pearl and Dana Mackenzie
+2. [Casual Inference in Statistics - A Primer](https://www.amazon.com/-/es/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846/) - by Judea Pearl
+3. [Fairness and machine learning - Chapter 4: Causality](https://fairmlbook.org/causal.html) by S. Barocas et al.
+4. [Causality: Models Reasoning and Inference](https://www.amazon.com/-/es/Judea-Pearl/dp/052189560X)
 
 
 Deep Learning
