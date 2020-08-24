@@ -39,10 +39,11 @@ Foundations
 
 Causality
 =========
-1. [The book of why](https://www.amazon.com/-/es/Judea-Pearl/dp/046509760X) - by Judea Pearl and Dana Mackenzie
-2. [Casual Inference in Statistics - A Primer](https://www.amazon.com/-/es/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846/) - by Judea Pearl
+1. [The book of why](https://www.amazon.com/-/es/Judea-Pearl/dp/046509760X) - by J. and D. Mackenzie
+2. [Casual Inference in Statistics - A Primer](https://www.amazon.com/-/es/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846/) - by J. Pearl [webpage and references](http://bayes.cs.ucla.edu/PRIMER/)
 3. [Fairness and machine learning - Chapter 4: Causality](https://fairmlbook.org/causal.html) by S. Barocas et al.
-4. [Causality: Models Reasoning and Inference](https://www.amazon.com/-/es/Judea-Pearl/dp/052189560X)
+4. [Causality: Models Reasoning and Inference](https://www.amazon.com/-/es/Judea-Pearl/dp/052189560X) by J. Pearl
+5. [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf) by B. Schölkopf
 
 
 Deep Learning
