@@ -45,6 +45,7 @@ Causality
 4. [Causality: Models Reasoning and Inference](https://www.amazon.com/-/es/Judea-Pearl/dp/052189560X) by J. Pearl
 5. [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf) by B. Schölkopf
 6. [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/) by F. Huszár
+7. [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) course by B. Neal
 
 
 Deep Learning
