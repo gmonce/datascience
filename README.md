@@ -65,6 +65,11 @@ Unsupervised Learning
 
 1. [A tutorial on PCA](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) - Lindsay Smith - 2002 - Very clear, step by step, introduction to Principal Component Analysis
 
+Supervised Learning
+===================
+
+1. [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808) - Sebastian Raschka - A great overview of supervised learning methodology
+
 Programming Machine Learning
 ============================
 
@@ -131,7 +136,7 @@ Amusements / Entretenimiento
 1. [Figuritas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Figuritas.ipynb)
 2. [Mentiras, malditas mentiras, y encuestas](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Mentiras.ipynb)
 3. [Mi "predicción" para las elecciones 2014 en Uruguay](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/Elecciones2014.ipynb) 
-
+4. [Sobreajuste](https://github.com/gmonce/datascience/blob/master/src/Sobreajustando.ipynb) - Una increíblemente precisa predicción de casos de COVID-19
 
 
 
