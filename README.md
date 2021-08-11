@@ -57,7 +57,7 @@ Deep Learning
 5. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - by A. Karpathy. An introduction to RNN and charater-level language models.
 6. [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/) - by C.Olah (2014)
 7. [Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular/) - by C.Olah (2014) - How convolutional neural networks work. 
-
+8. [Attention is All you Need: Before you Read Transformer](https://www.youtube.com/watch?v=qYcy6h1Rkgg&list=PLA4FxgvZfCDBkjH160QplvSwEiqrjO0ad&index=3&t=8s) - Video tutorial by @NamVo about the Transformer Architecure presente in the paper [Attention is All You Need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 
 Unsupervised Learning
