@@ -101,6 +101,8 @@ Advanced
 ========
 
 1. [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) - By Alex Irpan.
+2. [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) by Richard Sutton. [Reflections on The Bitter Lesson](https://cognitivemedium.com/bitter-lesson) by Michael Nielsen.
+3. [On the Bias-Variance Tradeoff: Textbooks Need an Update](https://www.bradyneal.com/bias-variance-tradeoff-textbooks-update) - By Brady Neal
 
 Reviews
 =======
