@@ -10,13 +10,15 @@ Historical papers
 3. [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By C. Shannon, 1948
 4. [The perceptron: A probabilistic model for information storage and organization in the brain](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf) by F. Rossenblat.
 5. [Learning representations by back-propagating errors](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf) By D.Rumelhart, G.Hinton y R.Williams.
+6. [Attention is all you need](https://arxiv.org/abs/1706.03762) by Ashish Vaswani et al. 
 
 Books
 =====
 1. [Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-Science-T-Jaynes/dp/0521592712) By E.T. Jaynes
 2. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) By J.H. Martin and D. Jurafsky (3rd edition draft)
 3. [Reinforcement Learning: an Introduction](http://incompleteideas.net/book/the-book-2nd.html) - By R. Sutton and A. Barto
-4. [Machine Learnning](http://www.cs.cmu.edu/~tom/mlbook.html) - By T. Mitchell 
+4. [Machine Learnning](http://www.cs.cmu.edu/~tom/mlbook.html) - By T. Mitchell
+5. [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-scikit-learn-ebook-dp-B09NW48MR1/dp/B09NW48MR1/) - By  S. Raschka (Author), Y. Liu (Author), V. Mirjalili 
 
 General Surveys 
 ===============
@@ -27,7 +29,7 @@ General Surveys
 
 Foundations
 ===========
-1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro, a topic that actually _needs_ an intro. By Adam Geitgey. 
+1. [Machine Learning is fun!](https://medium.com/p/80ea3ec3c471) - A _really_ nice machine learning intro. By Adam Geitgey. 
 2. [Intuition for Simulated Annealing](http://rs.io/2014/02/16/simulated-annealing-intuition.html) - Shake!. By Robb Seaton.
 3. [Everything You Wanted to Know about the Kernel Trick (But Were Too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html). By Eric Kim.
 4. [Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation](http://www.cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/) - By J.D. Long
