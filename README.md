@@ -122,7 +122,7 @@ My tutorials / Guías (English/Spanish)
 4. Aprendizaje Automático: lo mínimo que hay que saber
     * 4.1 [NumPy](https://github.com/gmonce/all_of_machine_learning/blob/main/NumPy-Intro.ipynb) *Actualizado!*
     * 4.2 [Pandas](https://github.com/gmonce/datascience/blob/master/src/Intro_Pandas.ipynb)
-    * 4.3 [Matplotlib y Seaborn](https://github.com/gmonce/datascience/blob/master/src/Intro_Matplotlib.ipynb)
+    * 4.3 [Matplotlib y Seaborn](https://github.com/gmonce/datascience/blob/master/src/Intro_Matplotlib.ipynb) *Actualizado!*
 
 Presentaciones (in Spanish)
 ===========================
