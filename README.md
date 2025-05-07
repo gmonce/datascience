@@ -22,8 +22,9 @@ Books
 
 General Surveys 
 ===============
-1. [Turing Machines](https://www.scientificamerican.com/index.cfm/_api/render/file/?method=inline&fileID=0AA52C13-7ADB-45E6-AEE4E71BDD9EB7A9) - An article in 1984 Scientific American by John E. Hopcropt, about Turing Machines, A.M. Turing, and the history of computability and computational complexity.
-2. [Deep Learning](https://www.nature.com/articles/nature14539) - A review of Deep Learning for Nature. By LeCun, Bengio & Hinton
+1. 1984 - [Turing Machines](https://www.scientificamerican.com/index.cfm/_api/render/file/?method=inline&fileID=0AA52C13-7ADB-45E6-AEE4E71BDD9EB7A9) [1984] - An article in 1984 Scientific American by John E. Hopcropt, about Turing Machines, A.M. Turing, and the history of computability and computational complexity.
+2. 2015 - [Deep Learning](https://www.nature.com/articles/nature14539) - A review of Deep Learning for Nature. By LeCun, Bengio & Hinton
+3. 2024 - [Scientific Progess in Artificial Intelligence: History, Status and Futures](http://erichorvitz.com/AI_Overview_History_Status_Futures_February_2024.pdf) - A February 2025 State of the art snapshot in AI. By Eric Horvitz and Tom M. Mitchell 
 
 
 
