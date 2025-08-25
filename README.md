@@ -125,6 +125,7 @@ My tutorials / Guías (English/Spanish)
     * 4.2 [Pandas](https://github.com/gmonce/all_of_machine_learning/blob/main/Pandas-Intro.ipynb) 
     * 4.3 [Matplotlib y Seaborn](https://github.com/gmonce/all_of_machine_learning/blob/main/Matplotlib-Intro.ipynb) 
     * 4.4 [PyTorch](https://github.com/gmonce/all_of_machine_learning/blob/main/PyTorch-Intro.ipynb) *Actualizado!*
+    * 4.5 [Álgebra Lineal](https://github.com/gmonce/all_of_machine_learning/blob/main/AlgebraLineal-Intro.ipynb) *Nuevo!*
 
 Presentaciones (in Spanish)
 ===========================
