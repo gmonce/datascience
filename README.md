@@ -121,11 +121,10 @@ My tutorials / Guías (English/Spanish)
 2. [Matrices for Data Scientists](http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/2.%20-%20Matrices%20for%20data%20scientists.ipynb)
 3. [Natural Language Parsing with Python](https://github.com/gmonce/nltk_parsing) 
 4. Aprendizaje Automático: lo mínimo que hay que saber
-    * 4.1 [NumPy](https://github.com/gmonce/all_of_machine_learning/blob/main/NumPy-Intro.ipynb) 
-    * 4.2 [Pandas](https://github.com/gmonce/all_of_machine_learning/blob/main/Pandas-Intro.ipynb) 
-    * 4.3 [Matplotlib y Seaborn](https://github.com/gmonce/all_of_machine_learning/blob/main/Matplotlib-Intro.ipynb) 
-    * 4.4 [PyTorch](https://github.com/gmonce/all_of_machine_learning/blob/main/PyTorch-Intro.ipynb) *Actualizado!*
-    * 4.5 [Álgebra Lineal](https://github.com/gmonce/all_of_machine_learning/blob/main/AlgebraLineal-Intro.ipynb) *Nuevo!*
+    * 4.1 [NumPy](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/NumPy-Intro.ipynb) 
+    * 4.2 [Pandas](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Pandas-Intro.ipynb) 
+    * 4.3 [Matplotlib y Seaborn](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Matplotlib-Intro.ipynb) 
+    * 4.4 [PyTorch](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/PyTorch-Intro.ipynb) *Actualizado!*
 
 Presentaciones (in Spanish)
 ===========================
