@@ -125,6 +125,8 @@ My tutorials / Guías (English/Spanish)
     * 4.2 [Pandas](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Pandas-Intro.ipynb) 
     * 4.3 [Matplotlib y Seaborn](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Matplotlib-Intro.ipynb) 
     * 4.4 [PyTorch](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/PyTorch-Intro.ipynb) *Actualizado!*
+    * 4.5 [Un repaso de álgebra lineal](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Algebra-Lineal.ipynb) *Nuevo!*
+    * 4.6 [Álgebra Lineal con NumPY](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/AlgebraLineal-con-NumPy.ipynb) *Nuevo!*
 
 Presentaciones (in Spanish)
 ===========================
