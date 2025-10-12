@@ -128,6 +128,7 @@ My tutorials / Guías (English/Spanish)
     * 4.5 [Un repaso de álgebra lineal](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Algebra-Lineal.ipynb) *Nuevo!*
     * 4.6 [Álgebra Lineal con NumPY](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/AlgebraLineal-con-NumPy.ipynb) *Nuevo!*
     * 4.7 [Entropía Cruzada](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Entropía-Cruzada.ipynb) *Nuevo!*
+    * 4.8 [PCA](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/PCA.ipynb) *Nuevo!*
 
 Presentaciones (in Spanish)
 ===========================
